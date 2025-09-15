@@ -1,10 +1,14 @@
-## Hi 👋
+## Hi! 👋
+I'm a highschool student with an interest in software and game development.
+
+This is my personal/main account. Most of the projects I work on are private (for now).
 
 ### Currently Learning
 <p>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
 ### Technologies I've Worked With
@@ -21,5 +25,3 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
-this is my personal account btw
