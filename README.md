@@ -1,4 +1,4 @@
-## Hi! 👋
+## Haii! 👋
 I'm a high school student with an interest in software and game development.
 
 This is my personal/main account. Most of the projects I work on are private (for now).
