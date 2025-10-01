@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Zyphrenn&style=flat)
 ## Haii! 👋
 I'm a high school student with an interest in software and game development.
 
